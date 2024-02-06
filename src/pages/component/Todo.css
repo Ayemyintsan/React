@@ -1,0 +1,48 @@
+form {
+    width: 500px;
+}
+
+.input {
+    padding: 20px;
+    border-radius: 10px;
+    width: 500px;
+}
+
+.btn {
+    float: left;
+    width: 100px;
+    padding: 10px;
+    background: black;
+    color: #fff;
+}
+
+.button {
+    margin-top: 5px;
+    width: 200px;
+    justify-content: space-between;
+
+}
+
+.task {
+    width: 550px;
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid gray;
+    background: lightskyblue;
+    justify-content: space-between;
+
+    
+    }
+    .para{
+        
+        width: 300px;
+        display: flex;
+        flex-wrap: wrap;
+        
+    }
+
+
+
+button {
+    margin-left: 20px;
+}
